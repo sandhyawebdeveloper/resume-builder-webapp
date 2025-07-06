@@ -40,8 +40,7 @@ A modern, fully responsive **Resume Builder** web app created using **HTML**, **
 ---
 
 ## 📸 Screenshots
-
-![Uploading sandhya-resumetool.netlify.app_.png…]()
+![sandhya-resumetool netlify app_](https://github.com/user-attachments/assets/89909c73-20aa-462b-b595-9c4753a7fbe9)
 
 
 ---
