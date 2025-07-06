@@ -55,9 +55,9 @@ Designed and built the complete system including UI/UX, dark theme support, PDF 
 
 ## 📬 Contact
 
-📧 Email: sandhya@example.com  
+📧 Email: sandhyawebdeveloper0@gmail.com 
 🌐 Portfolio: [protfoliosandhyaprajapati.netlify.app](https://protfoliosandhyaprajapati.netlify.app)  
-🔗 LinkedIn: [linkedin.com/in/sandhya](https://linkedin.com/in/sandhya)
+🔗 LinkedIn:https://www.linkedin.com/in/sandhya-prajapati-1a40a125b/
 
 ---
 
